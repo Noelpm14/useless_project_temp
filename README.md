@@ -54,13 +54,13 @@ http://localhost:3000](http://localhost:3000
 For Software:
 
 # Screenshots (Add at least 3)
-[Screenshot1](https://drive.google.com/file/d/1afQLlXZd94Z8TimycXSbTdoOPHLmzYGu/view?usp=sharing)
+(https://drive.google.com/file/d/1afQLlXZd94Z8TimycXSbTdoOPHLmzYGu/view?usp=sharing)
 *Main Page of the website*
 
-[![Screenshot2](Add screenshot 2 here with proper name)](https://drive.google.com/file/d/1ukGWn7Ck46SX-Qahz0Tt4USwj4I1_VNH/view?usp=sharing)
+(https://drive.google.com/file/d/1ukGWn7Ck46SX-Qahz0Tt4USwj4I1_VNH/view?usp=sharing)
 *Results View*
 
-[![Screenshot3](Add screenshot 3 here with proper name)](https://drive.google.com/file/d/1iaLgnx9ZEVoGScwJaGgVItlt17fxAV3T/view?usp=sharing)
+(https://drive.google.com/file/d/1iaLgnx9ZEVoGScwJaGgVItlt17fxAV3T/view?usp=sharing)
 *Shareable Score Card*
 
 # Diagrams
