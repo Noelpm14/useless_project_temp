@@ -2,47 +2,53 @@
 
 
 
-# [Project Name] 🎯
+# Repo Roaster 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Noel P Mathew]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Noel P Mathew - TIST
 
 ### Project Description
-[2-3 lines about what your project does]
+Fast AI powered website that pulls public repositories  and criticizes the repo.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The rising ego issues with developers 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A website that destroys devlopers egos 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- TypeScript, JavaScript, HTML and CSS3
+- Next.js and React
+- Motion, Tailwind CSS,Web Speech AI
+- Node.js, npm, OpenRouter AI API, GitHub and Git, PostCSS
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+# Clone repository
+git clone https://github.com/Noelpm14/REPOROASTER.git
+cd REPOROASTER
+
+# Install dependencies
+npm install
+# Add your OpenRouter API key in .env.local
+# OPENROUTER_API_KEY="your-key-here"
+```
 
 # Run
-[commands]
+```bash
+# Run development server
+npm run dev
+```
+http://localhost:3000](http://localhost:3000
 
 ### Project Documentation
 For Software:
