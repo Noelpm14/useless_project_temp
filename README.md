@@ -50,6 +50,7 @@ npm run dev
 ```
 http://localhost:3000](http://localhost:3000
 
+
 ### Project Documentation
 For Software:
 
@@ -87,9 +88,8 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Noel]: Whole thing
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
