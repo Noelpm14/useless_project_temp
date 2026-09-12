@@ -66,7 +66,7 @@ For Software:
 
 # Diagrams
 (https://drive.google.com/file/d/11JVk--KlUp5yqoF_FQk0DQAFKkSR_HQn/view?usp=sharing)
-*Add caption explaining your workflow*
+
 
 
 ### Project Demo
