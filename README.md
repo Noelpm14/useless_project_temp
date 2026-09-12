@@ -69,23 +69,9 @@ For Software:
 *Add caption explaining your workflow*
 
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
 # Additional Demos
-[Add any extra demo materials/links]
+(https://useless-project-temp-u7m4.onrender.com/)
 
 ## Team Contributions
 - [Noel]: Whole thing
